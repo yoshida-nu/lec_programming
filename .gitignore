@@ -17,5 +17,3 @@ Thumbs.db
 __pycache__/
 *.pyc
 
-# For teachers
-teacher/
